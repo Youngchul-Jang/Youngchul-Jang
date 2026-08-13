@@ -6,11 +6,11 @@ Scientist · Engineer · Artist · Jockey
 
 ## 🎓 **Academics**
 
-- **1 Major** - Classical Compostion
-- **2 Major** - Computer Engineering
-- **3 Major** - Electrical/Electronic Engineering
-- **4 Major** - Physics
-- **Other** - Horse Industry
+- 1 Major - Classical Compostion
+- 2 Major - Computer Engineering
+- 3 Major - Electrical/Electronic Engineering
+- 4 Major - Physics
+- Other - Horse Industry
 
 ---
 
