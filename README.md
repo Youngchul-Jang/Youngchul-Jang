@@ -1,7 +1,10 @@
-# 👋 Hi there, I'm Youngchul Jang 
-###  🇰🇷 South Korea · Multi-Disciplinary Scholar(Scientist, Engineer, Artist, Jockey)
+# Youngchul Jang
+**Multi-Disciplinary Scholar** · South Korea  
+Scientist · Engineer · Artist · Jockey
 
-# 🎓 Academics
+---
+
+### 🎓 Academics
 
 - 1 Major - Classical Compostion
 - 2 Major - Computer Engineering
@@ -9,7 +12,9 @@
 - 4 Major - Physics
 - Other - Horse Industry
 
-# 📃 Programming Languages
+---
+
+### 📃 Programming Languages
 
 - C/C++
 - Python
@@ -17,7 +22,9 @@
 - Csound
 - Pure Data
 
-# 📫 Contact
+---
+
+### 📫 Contact
 
 - E-mail: jyc0122jjang@gmail.com
 - Tell: 010-2365-6489
