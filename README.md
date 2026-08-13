@@ -1,5 +1,12 @@
 # 👋 Hi there, I'm Youngchul Jang 
-###  🇰🇷 South Korea · Multi-Disciplinary Scholar
+###  🇰🇷 South Korea · Multi-Disciplinary Scholar(Scientist, Engineer, Artist, Jockey)
+
+# Profile
+
+1 Major - Classical Compostion
+2 Major - Computer Engineering
+3 Major - Electric/Electronic Engineering
+4 Major - Physic Science
 
 <!--
 **Youngchul-Jang/Youngchul-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
