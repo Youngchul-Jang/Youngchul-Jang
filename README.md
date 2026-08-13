@@ -6,7 +6,8 @@
 - 1 Major - Classical Compostion
 - 2 Major - Computer Engineering
 - 3 Major - Electric/Electronic Engineering
-- 4 Major - Physic Science
+- 4 Major - Physics Science
+- Other - Horse Industry
 
 <!--
 **Youngchul-Jang/Youngchul-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
