@@ -30,6 +30,12 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
+### 📁 Current Projects
+
+
+
+---
+
 ### 📫 Contact
 
 - E-mail: jyc0122jjang@gmail.com
