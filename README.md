@@ -1,4 +1,5 @@
-## Hi there, my name is Youngchul Jang in South Korea Multi-Disciplinary Scholar👋
+# 👋 Hi there, I'm Youngchul Jang 
+###  🇰🇷 South Korea · Multi-Disciplinary Scholar
 
 <!--
 **Youngchul-Jang/Youngchul-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
