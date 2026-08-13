@@ -24,6 +24,11 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
+### 🔬 Research Interests
+
+
+---
+
 ### 📫 Contact
 
 - E-mail: jyc0122jjang@gmail.com
