@@ -4,7 +4,7 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
-### 🎓 Academics
+## 🎓 Academics
 
 - 1 Major - Classical Compostion
 - 2 Major - Computer Engineering
@@ -14,7 +14,7 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 - C/C++
 - Python
@@ -24,19 +24,19 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
-### 🔬 Research Interests
+## 🔬 Research Interests
 
 - Science & Industry Art
 
 ---
 
-### 📁 Current Projects
+## 📁 Current Projects
 
 - NULL
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
 - E-mail: jyc0122jjang@gmail.com
 - Tell: 010-2365-6489
