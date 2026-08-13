@@ -5,11 +5,11 @@
 
 - 1 Major - Classical Compostion
 - 2 Major - Computer Engineering
-- 3 Major - Electric/Electronic Engineering
-- 4 Major - Physics Science
+- 3 Major - Electrical/Electronic Engineering
+- 4 Major - Physics
 - Other - Horse Industry
 
-# 📃 Use Language
+# 📃 Programming Languages
 
 - C/C++
 - Python
@@ -17,7 +17,7 @@
 - Csound
 - Pure Data
 
-# 📫 Reach
+# 📫 Contact
 
 - E-mail: jyc0122jjang@gmail.com
 - Tell: 010-2365-6489
