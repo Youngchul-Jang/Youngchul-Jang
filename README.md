@@ -9,6 +9,13 @@
 - 4 Major - Physics Science
 - Other - Horse Industry
 
+# 📃 Use Language
+
+- C/C++
+- Python
+- MATLAB
+- Csound
+- Pure Data
 <!--
 **Youngchul-Jang/Youngchul-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
