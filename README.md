@@ -14,7 +14,7 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
-### 📃 Programming Languages
+### 💻 Programming Languages
 
 - C/C++
 - Python
