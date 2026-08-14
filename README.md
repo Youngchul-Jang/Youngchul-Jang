@@ -37,6 +37,8 @@ Scientist · Engineer · Artist · Jockey
 
 - Science & Industry Art
 - Signal Processing
+- Machine / Deep Learning
+- Musical Model
 
 ---
 
