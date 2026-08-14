@@ -16,23 +16,23 @@ Scientist · Engineer · Artist · Jockey
 
 ## 💻 **Programming Languages**
 
-### Systems High-Performance
-- **C / C++**<br>
+### Systems & High-Performance
+- ⚙ **C / C++**<br>
   Embedded Systems, Real-Time Audio Processing, MEX Projects, Performance-Critical Modules
 
 ### General-Purpose & Data
-- **Python**<br>
+- 🐍 **Python**<br>
   Scripting, Data Analysis, Machine / Deep Learning, Automation, DSP Prototyping
 
 ### Scientific Computing
-- **MATLAB**<br>
+- 📐 **MATLAB**<br>
   Signal Processing, Algorithm Development, Numerical Simulation, Prototyping
 
 ### Audio Programming / Computer Music
-- **Csound**<br>
+- 🎛 **Csound**<br>
   Sound Symthesis, Algorithmic Composition, Real-Time Audio Generation
   
-- **Pure Data**<br>
+- 🔊 **Pure Data**<br>
   Visual Programming for Interective Audio, Sound Design, Generative Systems
 
 ---
