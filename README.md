@@ -62,4 +62,3 @@ Scientist · Engineer · Artist · Jockey
 ## 📫 **Contact**
 
 - E-mail: jyc0122jjang@gmail.com
-- Tell: 010-2365-6489
