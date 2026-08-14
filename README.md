@@ -37,7 +37,7 @@ Scientist · Engineer · Artist · Jockey
   
 - [DSP 프로그램과 촉각 감지센서를 이용한 스마트 피아노](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10490831)<br>
 *한국정보기술학회 2020년도 종합 학술 대회 및 대학생논문경진대회*, 2020
-- 🔗 [공개특허(실용·신안)](https://doi.org/10.8080/1020200178378)
+ - 🔗 [공개특허(실용·신안)](https://doi.org/10.8080/1020200178378)
 
 ---
 
