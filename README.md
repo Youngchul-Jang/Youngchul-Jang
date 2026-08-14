@@ -28,7 +28,7 @@ Scientist · Engineer · Artist · Jockey
 - 📐 **MATLAB**<br>
   Signal Processing, Algorithm Development, Numerical Simulation, Prototyping
 
-### Audio Programming / Computer Music
+## 🎵 Audio Programming / Computer Music
 - 🎛 **Csound**<br>
   Sound Symthesis, Algorithmic Composition, Real-Time Audio Generation
   
