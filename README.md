@@ -2,6 +2,10 @@
 **Multi-Disciplinary Scholar** · South Korea  
 Scientist · Engineer · Artist · Jockey
 
+## About
+
+I explore the intersection of science, engineering, and art through computation and technology.
+
 ---
 
 ## 🎓 **Academics**
