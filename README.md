@@ -15,16 +15,12 @@ Scientist · Engineer · Artist · Jockey
 ---
 
 ## 💻 **Programming Languages**
-
-### Systems & High-Performance
 - ⚙ **C / C++**<br>
   Embedded Systems, Real-Time Audio Processing, MEX Projects, Performance-Critical Modules
 
-### General-Purpose & Data
 - 🐍 **Python**<br>
   Scripting, Data Analysis, Machine / Deep Learning, Automation, DSP Prototyping
 
-### Scientific Computing
 - 📐 **MATLAB**<br>
   Signal Processing, Algorithm Development, Numerical Simulation, Prototyping
 
