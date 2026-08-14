@@ -36,6 +36,7 @@ Scientist · Engineer · Artist · Jockey
 ## 🔬 **Research Interests**
 
 - Science & Industry Art
+- Signal Processing
 
 ---
 
