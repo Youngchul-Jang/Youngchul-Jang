@@ -53,7 +53,7 @@ Scientist · Engineer · Artist · Jockey
 
 ---
 
-## 📁 ** Representative Projects**
+## 📁 **Representative Projects**
 
 - NULL
 
