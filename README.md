@@ -2,9 +2,9 @@
 **Multi-Disciplinary Scholar** · South Korea  
 Scientist · Engineer · Artist · Jockey
 
-<!-- Visitor -->
+<!-- Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youngchul-Jang&label=Visitors&color=blueviolet&style=flat" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Youngchul-Jang&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## About
