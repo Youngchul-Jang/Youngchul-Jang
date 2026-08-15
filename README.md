@@ -35,7 +35,7 @@ I explore the intersection of science, engineering, and art through computation 
 
 ## 🎵 Audio Programming / Computer Music
 - 🎛 **Csound**<br>
-  Sound Symthesis, Algorithmic Composition, Real-Time Audio Generation
+  Sound Synthesis, Algorithmic Composition, Real-Time Audio Generation
   
 - 🔊 **Pure Data**<br>
   Visual Programming for Interective Audio, Sound Design, Generative Systems
