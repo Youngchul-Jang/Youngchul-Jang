@@ -9,9 +9,10 @@ Scientist · Engineer · Artist · Jockey
 
 ## 💖 Support
 
-Thank you for support more step up help my projects with SW / HW Reparing, Sharing, Communications;D
+Thank you for considering supporting my work!  
+Your sponsorship helps me continue SW/HW repairing, sharing knowledge, and building better projects.
 
-👉 **[Support GitHub Sponsors](https://github.com/sponsors/Youngchul-Jang)**
+👉 **[Support me on GitHub Sponsors](https://github.com/sponsors/Youngchul-Jang)**
 
 ## About
 
