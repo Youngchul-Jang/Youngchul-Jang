@@ -22,11 +22,11 @@ I explore the intersection of science, engineering, and art through computation 
 
 ## 🎓 **Academics**
 
-- 1 Major - Classical Compostion
-- 2 Major - Computer Engineering
-- 3 Major - Electrical/Electronic Engineering
-- 4 Major - Physics
-- Other - Horse Industry
+- 🎼 Classical Composition
+- 💻 Computer Engineering
+- ⚡ Electrical/Electronic Engineering
+- 🔬 Physics
+- 🐴 Horse Industry
 
 ---
 
