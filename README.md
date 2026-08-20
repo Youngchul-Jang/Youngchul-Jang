@@ -22,11 +22,11 @@ I explore the intersection of science, engineering, and art through computation 
 
 ## 🎓 **Academics**
 
-- 🎼 Classical Composition
-- 💻 Computer Engineering
-- ⚡ Electrical/Electronic Engineering
-- 🔬 Physics
-- 🐴 Horse Industry
+- 🎼 **Classical Composition**
+- 💻 **Computer Engineering**
+- ⚡ **Electrical / Electronic Engineering**
+- 🔬 **Physics**
+- 🐴 **Horse Industry**
 
 ---
 
