@@ -11,7 +11,6 @@ Scientist · Engineer · Artist · Jockey
   - Left Color  : 0e75b6
   - Right Color : 0e75b6
   -Style        : for-the-badge
-
 -->
  
 <p align="center">
