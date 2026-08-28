@@ -8,13 +8,13 @@ Scientist · Engineer · Artist · Jockey
   - Page ID     : Youngchul-Jang
   - Label       : Today Visitors
   - Type        : Daily
-  - Left Color  : 0e75b6
+  - Left Color  : BDBDBD
   - Right Color : 0e75b6
   - Style       : for-the-badge
 -->
 
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=Youngchul-Jang&label=Today%20Vistors&type=daily&leftColor=0e75b6&rightColor=0e75b6&style=for-the-badge" alt="Today Views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=Youngchul-Jang&label=Today%20Vistors&type=daily&leftColor=BDBDBD&rightColor=0e75b6&style=for-the-badge" alt="Today Views" />
 </p>
 
 ## 💖 Support
