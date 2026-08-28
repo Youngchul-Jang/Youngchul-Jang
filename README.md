@@ -4,7 +4,7 @@ Scientist · Engineer · Artist · Jockey
 
 <!-- Visitors -->
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=Youngchul-Jang&label=Vistors&type=daily&leftColor=0e75b6&rightColor=0e75b6&style=for-the-badge" alt="Today Views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=Youngchul-Jang&label=Today%20Vistors&type=daily&leftColor=0e75b6&rightColor=0e75b6&style=for-the-badge" alt="Today Views" />
 </p>
 
 ## 💖 Support
