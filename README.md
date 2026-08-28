@@ -6,7 +6,7 @@ Scientist · Engineer · Artist · Jockey
   Visitors(Daily)
   
   - Page ID     : Youngchul-Jang
-  - Label       : Today Views
+  - Label       : Today Visitors
   - Type        : Daily
   - Left Color  : 0e75b6
   - Right Color : 0e75b6
